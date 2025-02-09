@@ -12,7 +12,7 @@ const Home = () => {
         <p className="text-sm mt-4 md:text-2xl tracking-tight ">
           I'm a passionate & dedicated Web Developer and my expertise is to create Backend design, Frontend design and many more....
         </p>
-        <a href="https://drive.google.com/file/d/1m69ifWuhj1QC9vc9wT4H_m7p14eY9h9K/view?usp=drive_link" target="_blank">
+        <a href="https://drive.google.com/file/d/1KhAkpcAs5tgbSoF10KzhmzATomFmXhGU/view?usp=drive_link" target="_blank">
           <button
             className="mt-5 md:md-10 text-white py02 px-3 text-sm md:text-lg md:py-2 md:px-4 hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-3xl bg-[#465697]"
           >
